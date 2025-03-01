@@ -17,8 +17,8 @@ This project utilizes image processing techniques to identify and count tomatoes
 
 ## Usage
 
-1. **Clone the repository:** `git clone https://github.com/your-username/tomato-detection.git`
-2. **Install dependencies:** `pip install opencv-python numpy`
+1. **Clone the repository:** `https://github.com/guruprashanth2004/tomato-detection.git`
+2. **Install opencv library in python**
 3. **Upload an image:** Use the `files.upload()` function in Google Colab to upload an image of tomato crops.
 4. **Run the code:** Execute the Python script in Google Colab.
 
